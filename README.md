@@ -1,3 +1,26 @@
-## DevOps Project for Beginners   
+# Prerequisites
+#
+- JDK 17 
+- Maven 3.9 
+- MySQL 8
 
-[![Image](https://github.com/yankils/Simple-DevOps-Project/blob/master/Devops_course.PNG "DevOps Project - CI/CD with Jenkins Ansible Docker Kubernetes ")](https://www.udemy.com/course/valaxy-devops/?referralCode=8147A5CF4C8C7D9E253F)
+# Technologies 
+- JAKARTA
+- Spring MVC
+- Spring Security
+- Spring Data JPA
+- Maven
+- JSP
+- Tomcat
+- MySQL
+- Memcached
+- Rabbitmq
+- ElasticSearch
+# Database
+Here,we used Mysql DB 
+sql dump file:
+- /src/main/resources/db_backup.sql
+- db_backup.sql file is a mysql dump file.we have to import this dump to mysql db server
+- > mysql -u <user_name> -p accounts < db_backup.sql
+
+
